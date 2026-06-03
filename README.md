@@ -2,9 +2,9 @@
 
 ## Overview
 
-A multi-page website developed for a fictional bakery business.
+A multi-page website developed as part of a Computer Science web development assignment at the University of Salford.
 
-The project demonstrates front-end web development principles including website structure, navigation, styling and user experience design.
+The project demonstrates fundamental front-end web development skills including website structure, navigation, styling and user experience design.
 
 ---
 
@@ -13,8 +13,8 @@ The project demonstrates front-end web development principles including website 
 - Home page
 - Product pages
 - Contact page
-- Responsive layout
 - Consistent navigation
+- Custom styling
 
 ---
 
@@ -30,17 +30,20 @@ The project demonstrates front-end web development principles including website 
 - Front-End Development
 - Website Design
 - User Interface Design
-- Layout and Styling
 - Navigation Structure
+- Responsive Design Principles
 
 ---
 
-## Future Improvements
+## Reflection
+
+If this project were to be revisited, potential improvements could include:
 
 - JavaScript functionality
-- Online ordering system
-- Mobile optimisation
-- Customer account system
+- Mobile-first optimisation
+- Accessibility enhancements
+- Online ordering functionality
+- Improved visual design
 
 ---
 
